@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534312271686",
+    "project_id": "simphair-c4676",
+    "storage_bucket": "simphair-c4676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534312271686:android:b35730d6e0707c7c62af47",
+        "android_client_info": {
+          "package_name": "com.example.untitled1_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534312271686-bjib3ri7j2dkc75jtjt1o0gs5g85gn3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFe2Gokx6aphPlUQxkcwBroujl_GGM7r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534312271686-bjib3ri7j2dkc75jtjt1o0gs5g85gn3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
